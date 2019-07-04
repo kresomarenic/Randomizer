@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+
+    <string name="title_activity_login">Prijava</string>
+    <string name="login_text">Prijava</string>
+    <string name="username_text">Korisničko ime</string>
+    <string name="password_text">Lozinka</string>
+    <string name="button_login_text">Prijava</string>
+
+</resources>
